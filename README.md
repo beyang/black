@@ -11,3 +11,4 @@ installation
 1. Go to [https://raw.github.com/beyang/black/master/black.js](https://raw.github.com/beyang/black/master/black.js).
 2. Select all text.
 3. Drag to bookmarks bar.
+4. Black out.
