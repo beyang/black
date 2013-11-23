@@ -1,0 +1,4 @@
+black
+=====
+
+Make everything black
